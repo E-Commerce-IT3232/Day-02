@@ -73,6 +73,13 @@ The application will start on `http://localhost:8080`.
 * GET /app/msg → Returns "Hello SpringBoot"
 * GET /app/name → Returns "My name is SpringBoot"
 
+## Screenshots
+![output1](output02.png)
+
+---
+![output2](output01.png)
+
+
 ## License
 This project is licensed under the MIT License.
 
